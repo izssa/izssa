@@ -27,4 +27,5 @@ I am currently looking for junior opportunities in AI project coordination, AI o
 
 - LinkedIn: www.linkedin.com/in/izssa
 - GitHub: github.com/izssa
+- Portfolio: [Notion Portfolio](https://indigo-panther-02f.notion.site/Bilal-Issa-Portfolio-37b26c3fc42d80419045f18cdb9b8b46?source=copy_link)
 - Email: contactbilalissa@gmail.com
