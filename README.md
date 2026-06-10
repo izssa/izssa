@@ -1,4 +1,4 @@
-# Mohamad Bilal Issa
+# Mohamad Issa
 
 Junior AI Project Coordinator based in Berlin, with a background in visual merchandising, brand coordination, content creation, and creative project delivery.
 
