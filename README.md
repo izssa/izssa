@@ -26,3 +26,5 @@ I am currently looking for junior opportunities in AI project coordination, AI o
 ## Links
 
 - LinkedIn: www.linkedin.com/in/izssa
+- GitHub: github.com/izssa
+- Email: contactbilalissa@gmail.com
